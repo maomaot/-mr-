@@ -1,2 +1,2 @@
-# -mr-
+# -python-
 Python
